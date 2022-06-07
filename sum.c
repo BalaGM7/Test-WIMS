@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main(){
+void main()
+{
   int a,b,total;
   printf("Enter two numbers: \n");
   scanf("%d %d", &a, &b);
